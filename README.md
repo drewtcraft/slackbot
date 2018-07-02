@@ -1,6 +1,6 @@
 # slackbot
 
-###A slack weather bot by Andrew Craft
+### A slack weather bot by Andrew Craft
 
 Responds to 'Weather now', 'Weather tomorrow', and 'Hourly temp'.
 
